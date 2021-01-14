@@ -18,17 +18,17 @@ public:
 	}
 };
 
-int main()
-{
-	Circle circle1, circle2;
-
-	circle1.setRadius(1);
-	circle2.setRadius(2.5);
-
-	//Print Area 
-
-	cout << "the area of circle 1 is: " << circle1.calcArea() << endl;
-	cout << "the area of circle 2 is: " << circle2.calcArea() << endl;
-
-	return 0;
-}
+//int main()
+//{
+//	Circle circle1, circle2;
+//
+//	circle1.setRadius(1);
+//	circle2.setRadius(2.5);
+//
+//	//Print Area 
+//
+//	cout << "the area of circle 1 is: " << circle1.calcArea() << endl;
+//	cout << "the area of circle 2 is: " << circle2.calcArea() << endl;
+//
+//	return 0;
+//}
